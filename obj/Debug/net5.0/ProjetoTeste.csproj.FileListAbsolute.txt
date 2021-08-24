@@ -1,0 +1,16 @@
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste.deps.json
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste.runtimeconfig.json
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste.runtimeconfig.dev.json
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste.dll
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ref/ProjetoTeste.dll
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/bin/Debug/net5.0/ProjetoTeste.pdb
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.csproj.AssemblyReference.cache
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.AssemblyInfoInputs.cache
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.AssemblyInfo.cs
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.csproj.CoreCompileInputs.cache
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.dll
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ref/ProjetoTeste.dll
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.pdb
+/home/usuario/Área de Trabalho/C#/ProjetoTeste/obj/Debug/net5.0/ProjetoTeste.genruntimeconfig.cache
