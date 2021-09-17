@@ -14,7 +14,7 @@ namespace ProjetoTeste
         public double totalizar()
         {
             double total = 0;
-            for(int i = 0; i < Lista.Count; i = i + 1)
+            for(int i = 0; i < Lista.Count; i++)
             {
                 total = total + Lista[i].nota;
             }
